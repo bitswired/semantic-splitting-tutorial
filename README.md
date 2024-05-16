@@ -2,8 +2,8 @@
 
 This tutorial is available on my YouTube channel:
 
-[![IMAGE ALT TEXT HERE](thumb.png)](https://www.youtube.com/watch?v=VSfehUJUWQY)
-[YouTube Video](https://www.youtube.com/watch?v=VSfehUJUWQY).
+[![IMAGE ALT TEXT HERE](thumb.png)](https://youtu.be/qvDbOYz6U24?si=fyDMzJwWAqlTjofh)
+[YouTube Video](https://youtu.be/qvDbOYz6U24?si=fyDMzJwWAqlTjofh).
 
 ## Overview
 
